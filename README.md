@@ -60,6 +60,10 @@ Contributed by Jiayi Zhang, BJTU, and Shuaifei Chen, BJTU
 
 ## [1. Surveys and Tutorials](#1-surveys-and-tutorials)
 
+1. **Prospective Multiple Antenna Technologies for Beyond 5G** IEEE JSAC, 2020. [Journal](https://ieeexplore.ieee.org/document/9113273).
+
+   *J. Zhang, E. Björnson, M. Matthaiou, D. W. K. Ng, H. Yang, and D. J. Love* 
+
 1. **Foundations of User-Centric Cell-Free Massive MIMO.** Foundations and Trends® in Signal Processing, 2021. [Book](http://dx.doi.org/10.1561/2000000109).  [Code](https://github.com/emilbjornson/cell-free-book)
 
    *Ö. T. Demir, E. Björnson, L. Sanguinetti,* 
