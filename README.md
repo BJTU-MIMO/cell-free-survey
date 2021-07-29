@@ -1,13 +1,15 @@
 # cell-free-survey
 
-# Must-Reading Papers on User-Centric Cell-Free Massive MIMO (CF mMIMO) Networks
-**Definition:** An ultra-dense network with many more APs than UEs, and where the APs are cooperating to serve the UEs through coherent joint transmission and reception, while making use of the physical layer concepts from the cellular mMIMO area.
+# Must-Reading Papers on Cell-Free Massive MIMO (CF mMIMO) 
+**Definition:** An ultra-dense network with a large number of distributed APs than UEs, and where the APs are cooperating to serve the UEs through coherent joint transmission and reception, while making use of the physical layer concepts from the cellular mMIMO area.
 
-**Aims:** Include reproducible codes, good papers and a research library.
+**Aims:** Include reproducible codes, good papers and a research library. Please send us your papers if you would like to include them in this project.
 
-Contributed by Jiayi Zhang, BJTU, and Shuaifei Chen, BJTU
+Contributed by Prof. Jiayi Zhang and Shuaifei Chen (BJTU)
 
-<!--Supported by IEEE ComSoc ISAC Emerging Technology Inititive (ETI) &  IEEE SPS ISAC Technical Working Group (TWG)-->
+Thanks to Prof. Emil Björnson (KTH&LiU), Prof. Shi Jin (SEU), Prof. Bo Ai (BJTU)
+
+
 
 ## [Content](#content)
 
