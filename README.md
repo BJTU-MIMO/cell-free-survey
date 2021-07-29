@@ -3,7 +3,7 @@
 # Must-Reading Papers on User-Centric Cell-Free Massive MIMO (CF mMIMO) Networks
 **Definition:** An ultra-dense network with many more APs than UEs, and where the APs are cooperating to serve the UEs through coherent joint transmission and reception, while making use of the physical layer concepts from the cellular mMIMO area.
 
-**Aims:** include reproducible codes, good papers and a research library.
+**Aims:** Include reproducible codes, good papers and a research library.
 
 Contributed by Jiayi Zhang, BJTU, and Shuaifei Chen, BJTU
 
