@@ -128,6 +128,17 @@ Thanks to Prof. Emil Björnson (KTH&LiU), Prof. Shi Jin (SEU), Prof. Bo Ai (BJTU
 7. **Spectral Efficiency Analysis of Cell-Free Massive MIMO Systems With Zero-Forcing Detector.** IEEE TWC, 2020. [Journal](https://ieeexplore.ieee.org/abstract/document/8886730).  
 
     *P. Liu, K. Luo, D. Chen, T. Jiang*
+    
+7. **Performance Analysis of Cell-Free Massive MIMO Systems: A Stochastic Geometry Approach.** IEEE TVT, 2020. [Journal](https://ieeexplore.ieee.org/abstract/document/8972478).  
+    *A. Papazafeiropoulos, P. Kourtessis, M. D. Renzo, S. Chatzinotas and J. M. Senior*
+    
+7. **Towards Optimal Energy Efficiency in Cell-Free Massive MIMO Systems.** IEEE TGCN, 2021. [Journal](https://ieeexplore.ieee.org/abstract/document/9353695). 
+
+    *A. Papazafeiropoulos, H. Q. Ngo, P. Kourtessis, S. Chatzinotas and J. M. Senior*
+
+7. **Multipair Two-Way DF Relaying With Cell-Free Massive MIMO.** IEEE OJCS, 2021. [Journal](https://ieeexplore.ieee.org/abstract/document/9360649). 
+
+    *A. K. Papazafeiropoulos, P. Kourtessis, S. Chatzinotas and J. M. Senior*
 
 
 ## [3. Resource Allocation and Signal Processing](#3)  
