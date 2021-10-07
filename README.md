@@ -78,7 +78,7 @@ Thanks to Prof. Emil Björnson (KTH&LiU), Prof. Shi Jin (SEU), Prof. Bo Ai (BJTU
 
     *J. Zhang, S. Chen, Y. Lin, J. Zheng, B. Ai, L. Hanzo*
 
-1. **A Survey on User-Centric Cell-Free Massive MIMO Systems.** ArXiv, 2021. [Journal](https://arxiv.org/abs/2104.13667). 
+1. **A Survey on User-Centric Cell-Free Massive MIMO Systems.** ArXiv, 2021. [Journal](https://arxiv.org/abs/2104.13667v2). 
 
     *S. Chen, J. Zhang, J. Zhang, E. Björnson, B. Ai*
 
@@ -387,7 +387,7 @@ Thanks to Prof. Emil Björnson (KTH&LiU), Prof. Shi Jin (SEU), Prof. Bo Ai (BJTU
 
    *X. Zhang, D. Guo, K. An, B. Zhang*
    
-1. **Scalable Cell-Free Massive MIMO Systems: Impact of Hardware Impairments.**  IEEE TVT, 2019. [Journal](https://ieeexplore.ieee.org/document/9528977)
+1. **Scalable Cell-Free Massive MIMO Systems: Impact of Hardware Impairments.**  IEEE TVT, 2021. [Journal](https://ieeexplore.ieee.org/document/9528977)
 
    *A. Papazafeiropoulos, E. Björnson, P. Kourtessis, S. Chatzinotas, J. M Senior*
 
