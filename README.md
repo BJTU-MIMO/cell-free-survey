@@ -148,7 +148,7 @@ Thanks to Prof. Emil Björnson (KTH&LiU), Prof. Shi Jin (SEU), Prof. Bo Ai (BJTU
 
    *S. Buzzi, C. D’Andrea*
    
-1. **Structured Massive Access for Scalable Cell-Free Massive MIMO Systems.**  IEEE JSAC, 2021. [Jounral](https://ieeexplore.ieee.org/abstract/document/9174860)
+1. **Structured Massive Access for Scalable Cell-Free Massive MIMO Systems.**  IEEE JSAC, 2021. [Jounral](https://ieeexplore.ieee.org/abstract/document/9174860). [Code](https://github.com/ShuaifeiChen273/structured_access_CFmMIMO)
 
    *S. Chen, J. Zhang, E. Björnson, J. Zhang, B. Ai*
 
