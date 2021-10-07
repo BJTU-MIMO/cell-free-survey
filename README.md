@@ -386,6 +386,10 @@ Thanks to Prof. Emil Björnson (KTH&LiU), Prof. Shi Jin (SEU), Prof. Bo Ai (BJTU
 1. **Secure Communications Over Cell-Free Massive MIMO Networks With Hardware Impairments.**  IEEE SJ, 2019. [Journal](https://ieeexplore.ieee.org/document/8734757)
 
    *X. Zhang, D. Guo, K. An, B. Zhang*
+   
+1. **Scalable Cell-Free Massive MIMO Systems: Impact of Hardware Impairments.**  IEEE TVT, 2019. [Journal](https://ieeexplore.ieee.org/document/9528977)
+
+   *A. Papazafeiropoulos, E. Björnson, P. Kourtessis, S. Chatzinotas, J. M Senior*
 
 
 
